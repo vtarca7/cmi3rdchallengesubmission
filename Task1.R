@@ -1,4 +1,3 @@
-rm(list=ls())
 suppressPackageStartupMessages({
   library(verification)
   library(pROC)
